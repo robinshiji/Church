@@ -5,7 +5,7 @@ export function AboutSection() {
     {
       name: "Rev.Fr Thomas Cheruparambil",
       role: "Vicar",
-      image: "/",
+      image: "/fr. cheruparambil.jpg",
     },
     {
       name: "Rev.Fr Paul Choorathotty",

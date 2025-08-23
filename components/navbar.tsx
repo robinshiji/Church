@@ -51,7 +51,7 @@ export function Navbar() {
               href="/"
               className="font-serif text-xl font-bold text-primary hover:scale-105 transition-transform duration-200 cursor-pointer"
             >
-              St John Baptist Church
+            ST JOHN THE BAPTIST CHURCH 
             </a>
           </div>
 
