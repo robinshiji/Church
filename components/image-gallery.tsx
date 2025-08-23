@@ -9,12 +9,12 @@ export function ImageGallery() {
     },
     {
       
-      image: "/",
+      image: "/church2.jpg",
       
     },
     {
       
-      image: "/",
+      image: "/church3.jpg",
       
     },
     {

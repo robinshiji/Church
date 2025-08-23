@@ -7,22 +7,28 @@ export default function YouthMinistryPage() {
     {
       name: "Rijo John Shiji",
       role: "President",
-      image: "/young-friendly-pastor.png",
+      image: "/rijo.jpg",
     },
     {
-      name: "kelvin Michacel",
-      role: "Treasurey",
-      image: "/young-woman-church-coordinator.png",
+      name: "",
+      role: "Vice president",
+      image: "/",
     },
     {
-      name: "David Chen",
-      role: "Youth Activities Director",
+      name: "",
+      role: "Secretary",
       image: "/young-man-youth-director.png",
     },
     {
-      name: "Emily Rodriguez",
-      role: "Youth Counselor",
+      name: "",
+      role: "Joint Secretary",
       image: "/young-woman-youth-counselor.png",
+    },
+
+     {
+      name: "Kelvin michacel",
+      role: "Treasury",
+      image: "/kelvin.jpg",
     },
   ]
 
@@ -91,7 +97,7 @@ export default function YouthMinistryPage() {
                     <img
                       src={admin.image || "/placeholder.svg"}
                       alt={admin.name}
-                      className="w-32 h-32 rounded-full mx-auto object-cover border-4 border-primary/20"
+                      className="w-50 h-50 rounded-full mx-auto object-cover border-4 border-primary/20"
                     />
                   </div>
                   <h3 className="font-serif text-xl font-semibold text-primary mb-2">{admin.name}</h3>

@@ -45,7 +45,7 @@ export function AboutSection() {
                     <img
                       src={admin.image || "/placeholder.svg"}
                       alt={admin.name}
-                      className="w-32 h-32 rounded-full mx-auto object-cover border-4 border-primary/20"
+                      className="w-90 h-90 mx-auto "
                     />
                   </div>
                   <h4 className="font-semibold text-lg mb-2">{admin.name}</h4>
