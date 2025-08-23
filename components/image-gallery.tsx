@@ -38,7 +38,7 @@ export function ImageGallery() {
     <section className="py-16 bg-background">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="font-serif text-3xl md:text-4xl font-bold text-primary mb-4">____From The Gallery</h2>
+          <h2 className="font-serif text-3xl md:text-4xl font-bold text-primary mb-4">From The Gallery</h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Take a glimpse into our vibrant church community through these moments of worship, fellowship, and service
             that define who we are.
