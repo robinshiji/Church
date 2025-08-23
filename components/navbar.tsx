@@ -49,7 +49,7 @@ export function Navbar() {
           <div className="flex items-center">
             <a
               href="/"
-              className="font-serif text-xl font-bold text-primary hover:scale-105 transition-transform duration-200 cursor-pointer"
+              className="font-serif text-md font-bold text-primary hover:scale-105 transition-transform duration-200 cursor-pointer"
             >
             ST JOHN THE BAPTIST CHURCH 
             </a>

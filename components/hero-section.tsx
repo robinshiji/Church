@@ -15,9 +15,12 @@ export function HeroSection() {
 
       {/* Content */}
       <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
-        <h1 className="font-serif text-4xl md:text-6xl font-bold mb-6 leading-tight">
-         ST JOHN THE BAPTIST CHURCH, KALOOR
-        </h1>
+       <h1 className="font-serif text-2xl md:text-4xl font-bold mb-6 leading-snug">
+  ST JOHN THE BAPTIST CHURCH, KALOOR
+</h1>
+
+
+
         <p className="text-xl md:text-2xl mb-8 leading-relaxed">A Place of Faith and Fellowship</p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
