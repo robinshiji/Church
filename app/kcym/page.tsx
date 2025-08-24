@@ -40,18 +40,8 @@ export default function YouthMinistryPage() {
      {
       name: "Bovas Sojan",
       role: "Media team",
-      image: "/.jpg",
+      image: "/bovas.jpg",
     },
-
-     {
-      name: "Bovas Sojan",
-      role: "Media team",
-      image: "/.jpg",
-    },
-
-
-
-
   ]
 
   const eventImages = [
