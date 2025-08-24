@@ -19,11 +19,11 @@ export function Footer() {
             </div>
             <div className="flex items-center gap-2 text-sm mb-2">
               <Phone className="h-4 w-4" />
-              <span>(555) 123-4567</span>
+              <span>+919495867248</span>
             </div>
             <div className="flex items-center gap-2 text-sm">
               <Mail className="h-4 w-4" />
-              <span>info@stjohnbaptist.org</span>
+              <span>Kaloorbaptistchurch @gmail.com</span>
             </div>
           </div>
 
@@ -38,9 +38,11 @@ export function Footer() {
             <p className="text-sm text-primary-foreground/80">© 2025 St John Baptist Church. All Rights Reserved.</p>
             <div className="flex gap-6 text-sm">
               
-              <Link href="/sitemap" className="hover:text-primary-foreground/80 transition-colors">
-                Developed By Robin shiji
-              </Link>
+           <Link href="/sitemap" className="text-black-500 hover:text-red-700 transition-colors">
+           IT Partner Robin john shiji ||Nextgencoders.tech
+            </Link>
+
+
             </div>
           </div>
         </div>

@@ -98,11 +98,11 @@ export default function ContactPage() {
                     <div>
                       <h3 className="font-semibold text-gray-800">Address</h3>
                       <p className="text-gray-600">
-                        123 Faith Street
+                        Kaloor-paingottor Road, 
                         <br />
-                        Springfield, IL 62701
+                       Thodupuzha-perumakandam- Kaloor rd,
                         <br />
-                        United States
+                        kerala 686668
                       </p>
                     </div>
                   </div>
@@ -113,7 +113,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-800">Phone</h3>
-                      <p className="text-gray-600">(555) 123-4567</p>
+                      <p className="text-gray-600">+919495867248</p>
                     </div>
                   </div>
 
@@ -123,7 +123,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-800">Email</h3>
-                      <p className="text-gray-600">info@stjohnbaptist.org</p>
+                      <p className="text-gray-600">Kaloorbaptistchurch @gmail.com</p>
                     </div>
                   </div>
                 </div>
@@ -136,20 +136,13 @@ export default function ContactPage() {
                 <h2 className="text-2xl font-bold text-green-800 mb-6 font-serif">Office Hours</h2>
                 <div className="space-y-3">
                   <div className="flex justify-between">
-                    <span className="font-medium text-gray-800">Monday - Thursday</span>
-                    <span className="text-gray-600">9:00 AM - 5:00 PM</span>
+                    <span className="font-medium text-gray-800">Monday - Saturday</span>
+                    <span className="text-gray-600">8:00 AM - 5:00 PM</span>
                   </div>
-                  <div className="flex justify-between">
-                    <span className="font-medium text-gray-800">Friday</span>
-                    <span className="text-gray-600">9:00 AM - 3:00 PM</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="font-medium text-gray-800">Saturday</span>
-                    <span className="text-gray-600">10:00 AM - 2:00 PM</span>
-                  </div>
+                 
                   <div className="flex justify-between">
                     <span className="font-medium text-gray-800">Sunday</span>
-                    <span className="text-gray-600">Closed (Worship Services)</span>
+                    <span className="text-gray-600">8:00 AM - 01:00 PM</span>
                   </div>
                 </div>
               </CardContent>

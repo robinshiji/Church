@@ -10,19 +10,19 @@ export default function YouthMinistryPage() {
       image: "/rijo.jpg",
     },
     {
-      name: "",
+      name: "Aleesha treesa jose",
       role: "Vice president",
-      image: "/",
+      image: "/aleesha.jpg",
     },
     {
-      name: "",
+      name: "Abel mathew",
       role: "Secretary",
-      image: "/young-man-youth-director.png",
+      image: "/abel.jpg",
     },
     {
-      name: "",
+      name: "Dona Biju",
       role: "Joint Secretary",
-      image: "/young-woman-youth-counselor.png",
+      image: "/dona.jpg",
     },
 
      {
@@ -30,6 +30,28 @@ export default function YouthMinistryPage() {
       role: "Treasury",
       image: "/kelvin.jpg",
     },
+
+    {
+      name: "Robin shiji",
+      role: "Media team",
+      image: "/robin.jpg",
+    },
+
+     {
+      name: "Bovas Sojan",
+      role: "Media team",
+      image: "/.jpg",
+    },
+
+     {
+      name: "Bovas Sojan",
+      role: "Media team",
+      image: "/.jpg",
+    },
+
+
+
+
   ]
 
   const eventImages = [

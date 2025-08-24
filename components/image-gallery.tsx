@@ -19,17 +19,17 @@ export function ImageGallery() {
     },
     {
       
-      image: "/",
+      image: "/church4.jpg",
       
     },
     {
      
-      image: "/",
+      image: "/church5.jpg",
      
     },
     {
      
-      image: "/",
+      image: "/church6.jpg",
       
     },
   ]

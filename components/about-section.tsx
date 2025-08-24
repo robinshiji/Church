@@ -8,19 +8,19 @@ export function AboutSection() {
       image: "/fr. cheruparambil.jpg",
     },
     {
-      name: "Rev.Fr Paul Choorathotty",
-      role: "Assistant Vicar",
-      image: "/",
+      name: "George joseph pampackal",
+      role: "Trustee",
+      image: "/George.jpg",
     },
     {
-      name: "",
-      role: "",
-      image: "/",
+      name: "Joseph pc peadikkattukunnel",
+      role: "Trustee",
+      image: "/joseph.jpg",
     },
     {
-      name: "",
-      role: "",
-      image: "/",
+      name: "Shibu Mathew manappurath",
+      role: "Trustee",
+      image: "/shibu.jpg",
     },
   ]
 
