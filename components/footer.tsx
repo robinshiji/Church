@@ -38,9 +38,14 @@ export function Footer() {
             <p className="text-sm text-primary-foreground/80">© 2025 St John Baptist Church. All Rights Reserved.</p>
             <div className="flex gap-6 text-sm">
               
-           <Link href="/sitemap" className="text-black-500 hover:text-red-700 transition-colors">
-           IT Partner Robin john shiji ||Nextgencoders.tech
-            </Link>
+         <Link 
+  href="https://www.instagram.com/nextgencoders.tech" 
+  className="text-white-500 hover:text-red-700 transition-colors"
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  IT Partner: Robin John Shiji || Nextgencoders.tech
+</Link>
 
 
             </div>

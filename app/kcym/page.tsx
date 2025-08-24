@@ -46,9 +46,9 @@ export default function YouthMinistryPage() {
 
   const eventImages = [
     {
-      src: "/youth-bible-study.png",
-      title: "Bible Study Sessions",
-      description: "Weekly interactive Bible study for teens",
+      src: "/esprenza.jpg",
+      title: "EZPRENZA 2k25",
+      description: "Sunday School year Celebration",
     },
     {
       src: "/youth-group-camping.png",
@@ -125,7 +125,7 @@ export default function YouthMinistryPage() {
       <section className="py-16 bg-muted/30">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="font-serif text-3xl font-bold text-primary mb-4">Youth Ministry Events</h2>
+            <h2 className="font-serif text-3xl font-bold text-primary mb-4">Kcym Events</h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               Discover the vibrant activities and events that bring our youth together in faith and fellowship.
             </p>
