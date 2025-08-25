@@ -3,9 +3,9 @@ import { Clock } from "lucide-react"
 
 export function MassTimings() {
   const massSchedule = [
-    { day: "Sunday", times: ["6:00 AM", "7:15 AM", "09:15 AM", "4:00 PM"] },
-    { day: "Monday - Friday", times: ["6:00 AM"] },
-    { day: "Saturday", times: ["06:00 AM", "07:00 AM "] },
+    { day: "Sunday", times: ["05:45 AM", "7:15 AM", "09:45 AM", ] },
+    { day: "Monday - Saturday", times: ["6:15 AM"] },
+    
   ]
 
   return (

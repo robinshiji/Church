@@ -30,20 +30,9 @@ export default function YouthMinistryPage() {
       role: "Treasury",
       image: "/kelvin.jpg",
     },
-
-    {
-      name: "Robin shiji",
-      role: "Media team",
-      image: "/robin.jpg",
-    },
-
-     {
-      name: "Bovas Sojan",
-      role: "Media team",
-      image: "/bovas.jpg",
-    },
   ]
 
+  
   const eventImages = [
     {
       src: "/esprenza.jpg",
