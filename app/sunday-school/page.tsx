@@ -196,7 +196,7 @@ export default function SundaySchoolPage() {
               <h3 className="font-serif text-xl font-semibold text-primary mb-4">Sunday School Information</h3>
               <div className="space-y-3 text-muted-foreground">
                 <p>
-                  <strong>When:</strong> Every Sunday, 9:30 AM - 10:15 AM
+                  <strong>When:</strong> Every Sunday, 11:00 am- 12:25 pm
                 </p>
                 <p>
                   <strong>Where:</strong> Church Education Building

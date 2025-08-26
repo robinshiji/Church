@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8"></div>
           {/* Church Info */}
           <div>
-            <h3 className="font-serif text-xl font-semibold mb-4">St John Baptist Church</h3>
+            <h3 className="font-serif text-xl font-semibold mb-4">St John The Baptist Church</h3>
             <p className="text-sm text-primary-foreground/80 mb-4">
               A place of faith, fellowship, and community service. Join us in worship and grow in your spiritual
               journey.
@@ -35,7 +35,7 @@ export function Footer() {
         {/* Bottom Section */}
         <div className="border-t border-primary-foreground/20 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-sm text-primary-foreground/80">© 2025 St John Baptist Church. All Rights Reserved.</p>
+            <p className="text-sm text-primary-foreground/80">© 2025 St John The Baptist Church. All Rights Reserved.</p>
             <div className="flex gap-6 text-sm">
               
          <Link 
@@ -44,7 +44,7 @@ export function Footer() {
   target="_blank" 
   rel="noopener noreferrer"
 >
-  IT Partner: Robin John Shiji || Nextgencoders.tech
+  Designed & Developed By  Robin John Shiji || Nextgencoders
 </Link>
 
 

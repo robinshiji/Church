@@ -35,7 +35,11 @@ export function Navbar() {
   }
 
   const ministries = [
+    { name: "All Kerala Catholic Congress( AKCC)", href: "/" },
+    {name: "Saint Vincent de Paul society",href:"/"},
+    {name:"Family Apostolate",href:"/"},
     { name: "Kerala Catholic Youth Congress(Kcym)", href: "/kcym" },
+    {name:"Mathruvedhi",href:"/"},
     { name: "Cherupushpa Mission League(Cml)", href: "/cml" },
     { name: "Sunday School", href: "/sunday-school" },
     { name: "Thirubalasakyam", href: "/Thirubalasakyam" },

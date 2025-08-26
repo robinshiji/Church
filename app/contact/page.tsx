@@ -149,14 +149,7 @@ export default function ContactPage() {
             </Card>
 
             {/* Emergency Contact */}
-            <Card className="shadow-lg bg-green-50">
-              <CardContent className="p-8">
-                <h2 className="text-2xl font-bold text-green-800 mb-4 font-serif">Emergency Contact</h2>
-                <p className="text-gray-700 mb-4">For pastoral emergencies outside of office hours, please call:</p>
-                <p className="text-xl font-semibold text-green-800">(555) 123-4567</p>
-                <p className="text-sm text-gray-600 mt-2">Press 1 for emergency pastoral care</p>
-              </CardContent>
-            </Card>
+           
           </div>
         </div>
       </div>
